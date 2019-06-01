@@ -1,6 +1,6 @@
 ## Overview
 
-![My Home Automation Setup](https://raw.githubusercontent.com/skalavala/skalavala.github.io/master/images/smart-home.jpg)
+![My Home Automation Setup](https://raw.githubusercontent.com/steinmaerivoet/home-assistant-config/master/Documentation/Topology/homeassistant_topology.png)
 ## Hardware
 
 
